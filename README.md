@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mneter
+- 👀 I’m interested in coding and electronics. 
+- 🌱 I’m currently learning information technologies and different languages as portuguese.
